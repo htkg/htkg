@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hello there! 👋
 
+I'm Kudryashov Aleksandr, who loves researching things from the perspective of statistics and data science. 
+
+
+# ❤️ Specialization
+* Data Science
+* OSINT
+* DevOps
+
+# ⌨️ Programming Languages
+* Python
+* R
+* Swift
+* Web-stack (JS, CSS)
+
+# 📫 How to reach me
+* VKontakte: https://vk.com/harryhowly
+* Telegram: https://t.me/harryhow
 <!--
 **htkg/htkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
