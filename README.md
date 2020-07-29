@@ -17,6 +17,7 @@ I'm Kudryashov Aleksandr, who loves researching things from the perspective of s
 # 📫 How to reach me
 * VKontakte: https://vk.com/harryhowly
 * Telegram: https://t.me/harryhow
+* E-mail: akudryashov.work@gmail.com
 <!--
 **htkg/htkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
